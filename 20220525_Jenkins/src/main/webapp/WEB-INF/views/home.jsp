@@ -10,8 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<h2>webhook</h2>
-<h2>re webhook</h2>
 <h2>~~~~~</h2>
 </body>
 </html>
